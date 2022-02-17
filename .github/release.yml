@@ -5,7 +5,7 @@ changelog:
     labels:
       - ignore-for-release
     authors:
-      - dependabot
+      - ptitzler
       - akchinSTC
   categories:
     - title: New Features
